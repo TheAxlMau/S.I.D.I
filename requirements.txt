@@ -1,0 +1,8 @@
+# requirements.txt
+ultralytics
+opencv-python
+numpy
+mediapipe
+# Interfaz Gráfica (GUI) y manejo de imagen
+customtkinter
+Pillow
